@@ -366,7 +366,27 @@ Used to provide a simple interactive interface for customer churn prediction.
 ### FastAPI
 
 Used to provide a REST API that can receive customer information and return predictions programmatically.
+## Application Screenshots
 
+### Streamlit Application
+
+The Streamlit interface allows users to enter customer information and receive a churn prediction.
+
+![Streamlit Application](screenshots/streamlit.png)
+
+### Streamlit Prediction Result
+
+The application displays the predicted churn status, churn probability, and risk level.
+
+![Streamlit Prediction Result](screenshots/streamlit-result.png)
+
+### FastAPI Swagger UI
+
+The FastAPI service provides an API for sending customer information and receiving predictions.
+
+![FastAPI Swagger 1](screenshots/fastapi-1.png)
+
+![FastAPI Swagger 2](screenshots/fastapi-2.png)
 ## Future Improvements
 
 Possible improvements for future versions include:
