@@ -1,5 +1,37 @@
 # Customer Churn Prediction System
 
+An end-to-end machine learning system that predicts whether a telecom customer is likely to churn.
+
+The project covers the complete machine learning workflow:
+
+- Data collection
+- Data cleaning
+- Exploratory data analysis
+- Data preprocessing
+- Model training
+- Model evaluation
+- Model saving with Joblib
+- Customer prediction
+- Streamlit deployment
+- FastAPI deployment
+- API testing
+
+## Tech Stack
+
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- Seaborn
+- Joblib
+- Streamlit
+- FastAPI
+- Uvicorn
+- Pydantic
+- pytest
+# Customer Churn Prediction System
+
 ## Project overview
 A beginner-friendly machine learning system that predicts whether a Telco customer is likely to churn. It demonstrates the complete pipeline: problem definition, data collection, cleaning, preprocessing, model training, evaluation, model saving/loading, Streamlit deployment, FastAPI deployment, and API testing.
 
